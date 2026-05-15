@@ -19,6 +19,13 @@ Como **Desenvolvedora (Dev Team)**, meu desafio central foi garantir o fluxo cor
 * **Operações de Sistema:** Desenvolver a lógica robusta para que os profissionais da saúde pudessem cadastrar, ler, atualizar e excluir relatórios sem perda de dados.
 * **Comunicação Front e Back:** Fazer a integração fluida entre a interface que o usuário acessa e a lógica por trás do sistema, manipulando adequadamente os recursos e controladores.
 
+Confira o vídeo de demonstração da versão final (Sprint IV):
+* 🖥️ **Demonstração:**
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/62737194-da5e-4690-abf2-036ed8ce06db" controls>
+  </video>
+</div>
+
 ## 👩‍💻 Minha Atuação
 Durante as 4 Sprints do projeto, atuei de forma ativa no desenvolvimento com foco no fluxo principal de dados da aplicação. Minhas principais responsabilidades e contribuições incluíram:
 * 💾 **Banco de Dados:** Fui responsável pela estruturação, modelagem e conexão do banco de dados (MySQL), garantindo que a base estivesse pronta para receber e organizar os dados sensíveis dos relatórios clínicos.
