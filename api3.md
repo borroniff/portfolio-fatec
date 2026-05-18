@@ -25,6 +25,80 @@ Durante o projeto, atuei garantindo a preparação do insumo técnico e a acessi
 * 📘 **Manual do Usuário:** Fui a responsável exclusiva pelo desenvolvimento do manual do usuário, elaborando um guia completo que detalha desde a navegação inicial até funcionalidades avançadas, como a comparação de estados, busca por NCM, visualização de mapas de calor e exportação para Power BI.
 * 🤝 **Trabalho em Equipe:** Participei ativamente das metodologias ágeis (Scrum), alinhando as entregas de dados com as necessidades das equipes de Backend e Frontend ao longo das Sprints.
 
+## 💻 Habilidades durante o projeto:
+<h3>Hard Skills:</h3>
+  <table>
+    <tr>
+      <th width="300px">Tecnologia / Metodologia</th>
+      <th width="100px">Nota</th>
+      <th width="200px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Node.js & NestJS (API REST)</td>
+      <td>★★★☆☆</td>
+      <td>Entendi</td>
+    </tr>
+    <tr>
+      <td>Modelagem ORM</td>
+      <td>★★★☆☆</td>
+      <td>Entendi</td>
+    </tr>
+    <tr>
+      <td>Python & Data Prep</td>
+      <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
+    </tr>
+    <tr>
+      <td>React & Vite</td>
+      <td>★★★☆☆</td>
+      <td>Entendi</td>
+    </tr>
+    <tr>
+      <td>TypeScript</td>
+      <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
+    </tr>
+    <tr>
+      <td>HTML5 / CSS3</td>
+      <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
+    </tr>
+    <tr>
+      <td> Git / Scrum (Dev. Team)</td>
+      <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
+    </tr>
+  </table>
+
+<h3>Soft Skills:</h3>
+  <table>
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="200px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Trabalho em Equipe</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação Assertiva</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Organização e Planejamento</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Resiliência</td>
+      <td>★★★☆☆</td>
+    </tr>
+  </table>
+<br>
+
 ## 🛠️ Tecnologias Utilizadas
 A plataforma e a rotina de dados foram construídas utilizando ferramentas modernas focadas em escalabilidade e precisão:
 
