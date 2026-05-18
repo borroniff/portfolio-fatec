@@ -25,6 +25,75 @@ Durante o projeto, atuei exclusivamente como Product Owner, sendo a responsável
 * 🤝 **Validação com o Cliente e Stakeholders:** Condução de reuniões de alinhamento e apresentação das entregas (Reviews) de cada Sprint (1, 2 e 3) para a cliente TecSys e os docentes orientadores, garantindo que o produto estivesse sempre rumo à resolução do desafio proposto.
 * 🚀 **Acompanhamento do Desenvolvimento Ágil:** Colaboração diária com o Scrum Master e o Dev Team para o esclarecimento de dúvidas sobre regras de negócio, removendo impedimentos no entendimento do produto e garantindo a fluidez da esteira de entregas.
 
+## 💻 Habilidades durante o projeto:
+<h3>Hard Skills:</h3>
+  <table>
+    <tr>
+      <th width="300px">Tecnologia / Metodologia</th>
+      <th width="100px">Nota</th>
+      <th width="200px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Gestão de Backlog</td>
+      <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
+    </tr>
+    <tr>
+      <td>Conhecimento em regras de negócio</td>
+      <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
+    </tr>
+    <tr>
+      <td>Validação e Homologação de Software</td>
+      <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
+    </tr>
+    <tr>
+      <td>Estratégia e definição do MVP</td>
+      <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
+    </tr>
+    <tr>
+      <td>Entendimento técnico das tecnologias utilizadas</td>
+      <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
+    </tr>
+    <tr>
+      <td> Git / Scrum (P.O)</td>
+      <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
+    </tr>
+  </table>
+
+<h3>Soft Skills:</h3>
+  <table>
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="200px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★★</td>
+    </tr>
+    <tr>
+      <td>Trabalho em Equipe</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação Assertiva</td>
+      <td>★★★★★</td>
+    </tr>
+    <tr>
+      <td>Organização e Planejamento</td>
+      <td>★★★★★</td>
+    </tr>
+    <tr>
+      <td>Resiliência</td>
+      <td>★★★☆☆</td>
+    </tr>
+  </table>
+<br>
+
 ## 🛠️ Tecnologias Utilizadas
 Para solucionar esse desafio de forma escalável, o projeto utilizou as seguintes tecnologias integradas em inteligência artificial, backend e frontend:
 
