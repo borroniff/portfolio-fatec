@@ -37,10 +37,10 @@ Os projetos abaixo foram desenvolvidos sob a metodologia de Aprendizagem por Pro
 
 | Semestre | Projeto | Parceiro de Negócio | Resumo do Escopo | Documentação Técnica |
 | :---: | :--- | :--- | :--- | :---: |
-| **1º** | **Aprenda Scrum** | *FATEC* | Sistema Web com foco no ensino da Metodologia Ágil de forma dinâmica. | [📄 Detalhes]() |
-| **2º** | **MindDoc Analyzer** | *FATEC* | Software voltado para a extração de informações e armazenamento de relatórios clínicos. | [📄 Detalhes]() |
-| **3º** | **AdaTrade**| *FATEC* | Plataforma WEB de acompanhamento dos dados de importação e exportação dos estados brasileiros. | [📄 Detalhes]() |
-| **4º** | **AdaTech** | *TecSys* | Aplicação que automatiza a criação da instrução de registro aduaneiro, de maneira legalmente correta e compatível. | [📄 Detalhes]() |
+| **1º** | **Aprenda Scrum** | *FATEC* | Sistema Web com foco no ensino da Metodologia Ágil de forma dinâmica. | [🔗 Detalhes](https://github.com/borroniff/portfolio-fatec/blob/main/api1.md) |
+| **2º** | **MindDoc Analyzer** | *FATEC* | Software voltado para a extração de informações e armazenamento de relatórios clínicos. | [🔗 Detalhes](https://github.com/borroniff/portfolio-fatec/blob/main/api2.md) |
+| **3º** | **AdaTrade**| *FATEC* | Plataforma WEB de acompanhamento dos dados de importação e exportação dos estados brasileiros. | [🔗 Detalhes](https://github.com/borroniff/portfolio-fatec/blob/main/api3.md) |
+| **4º** | **AdaTech** | *TecSys* | Aplicação que automatiza a criação da instrução de registro aduaneiro, de maneira legalmente correta e compatível. | [🔗 Detalhes](https://github.com/borroniff/portfolio-fatec/blob/main/api4.md) |
 
 ---
 
