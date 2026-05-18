@@ -2,7 +2,6 @@
 
 <div align="center">
   <img width="960" height="437" alt="MindDoc Analyzer Banner" src="https://github.com/user-attachments/assets/f44904d5-fbe7-4dd5-bde5-84c6c18c6263" />
- />
 </div>
 
 <br>
@@ -32,6 +31,80 @@ Durante as 4 Sprints do projeto, atuei de forma ativa no desenvolvimento com foc
 * ⚙️ **Desenvolvimento do CRUD Principal (Backend):** Codifiquei toda a lógica de negócio das operações de Criação, Leitura, Atualização e Exclusão no backend. Isso garantiu o gerenciamento completo dos documentos e das informações extraídas dos pacientes.
 * 🖥️ **Controllers e Resources (Frontend):** Atuei no lado do cliente desenvolvendo e configurando os controllers e resources. Fui responsável por fazer a ponte de comunicação, garantindo que as requisições do usuário na interface consumissem a API corretamente e exibissem os dados na tela.
 * 🤝 **Trabalho em Equipe:** Participação ativa nas cerimônias Scrum (Plannings, Dailies, Reviews e Retrospectives), ajudando a manter o alinhamento técnico do Dev Team entre as entregas de front e banco de dados.
+
+## 💻 Habilidades durante o projeto:
+<h3>Hard Skills:</h3>
+  <table>
+    <tr>
+      <th width="300px">Tecnologia / Metodologia</th>
+      <th width="100px">Nota</th>
+      <th width="200px">Classificação</th>
+    </tr>
+    <tr>
+      <td>JAVA / P.O.O.</td>
+      <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
+    </tr>
+    <tr>
+      <td>Maven & Automação de Build</td>
+      <td>★★★☆☆</td>
+      <td>Entendi</td>
+    </tr>
+    <tr>
+      <td>JUnit (Testes Unitários)</td>
+      <td>★★☆☆☆</td>
+      <td>Já ouvi falar</td>
+    </tr>
+    <tr>
+      <td>MySQL</td>
+      <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
+    </tr>
+    <tr>
+      <td>Integração com I.A.</td>
+      <td>★★☆☆☆</td>
+      <td>Já ouvi falar</td>
+    </tr>
+    <tr>
+      <td>GIT/Jira/Trello</td>
+      <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
+    </tr>
+    <tr>
+      <td>Scrum (Dev. Team)</td>
+      <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
+    </tr>
+  </table>
+
+<h3>Soft Skills:</h3>
+  <table>
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="200px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Trabalho em Equipe</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação Assertiva</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Organização e Planejamento</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Resiliência</td>
+      <td>★★★☆☆</td>
+    </tr>
+  </table>
+<br>
 
 ## 🛠️ Tecnologias Utilizadas
 A plataforma foi construída utilizando ferramentas modernas e focadas em robustez e escalabilidade local:
