@@ -18,6 +18,13 @@ Como **Product Owner (P.O.)**, meu desafio central foi garantir que a solução 
 * **Comunicação e Alinhamento:** Servir como a ponte principal entre as complexas regras de negócio de comércio exterior/Receita Federal e a linguagem técnica da equipe de desenvolvimento.
 * **Gestão de Escopo:** Equilibrar os recursos técnicos e o tempo disponível nas sprints com a necessidade de entregar uma solução segura (com autenticação e histórico) e confiável para o usuário final.
 
+Confira o vídeo de demonstração da versão final (Sprint IV):
+* 🖥️ **Demonstração:**
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/382b0799-d370-4754-acb5-068a4deda1cc" width="650" controls>
+  </video>
+</div>
+
 ## 👩‍💻 Minha Atuação
 Durante o projeto, atuei exclusivamente como Product Owner, sendo a responsável direta pela visão do produto, gestão do backlog e interface com os stakeholders. Minhas principais responsabilidades incluíram:
 * 📋 **Gestão e Priorização do Backlog (Product Backlog):** Criação, mapeamento e priorização das Histórias de Usuário (User Stories). Fui responsável por elencar as entregas de alto valor, como a extração de dados e a geração de planilhas Excel na Sprint 1, deixando módulos como formulários de correção e telas de histórico para as Sprints subsequentes.
