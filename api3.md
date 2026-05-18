@@ -18,6 +18,13 @@ Como **Desenvolvedora (Dev Team)** com foco na qualidade dos dados e na experiê
 * **Tratamento Analítico:** Aplicar técnicas estatísticas para remover anomalias (outliers) que poderiam distorcer as análises financeiras.
 * **Capacitação do Usuário:** Traduzir a complexidade técnica da plataforma em um guia compreensível, garantindo que economistas e gestores pudessem navegar e exportar dados com facilidade.
 
+Confira o vídeo de demonstração da versão final (Sprint IV):
+* 🖥️ **Demonstração:**
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/5b22543a-625d-454c-a67b-ff6f0971a1fb" width="600" controls>
+  </video>
+</div>
+
 ## 👩‍💻 Minha Atuação
 Durante o projeto, atuei garantindo a preparação do insumo técnico e a acessibilidade da ferramenta para o usuário. Minhas principais responsabilidades incluíram:
 * 🧹 **Limpeza e Tratamento de Dados (Pandas & Google Colab):** Desenvolvi scripts em Python no Google Colab para acessar, limpar e normalizar os arquivos CSV de importação e exportação. Implementei a eliminação de registros irrelevantes (como transporte postal e "em mãos") e apliquei a técnica de Intervalo Interquartil (IQR) para tratar outliers em colunas críticas como peso líquido e valor FOB.
