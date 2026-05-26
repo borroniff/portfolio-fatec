@@ -124,3 +124,9 @@ Para solucionar esse desafio de forma escalável, o projeto utilizou as seguinte
     <img align="center" alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg">
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div>
+<br>
+
+## 🌐 Navegação
+
+* 🔛 [Menu principal](https://github.com/borroniff/portfolio-fatec/blob/main/README.md)
+* 🔙 [Projeto anterior](https://github.com/borroniff/portfolio-fatec/blob/main/api3.md)
