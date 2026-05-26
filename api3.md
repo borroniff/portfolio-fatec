@@ -129,3 +129,10 @@ A plataforma e a rotina de dados foram construídas utilizando ferramentas moder
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
     <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
+<br>
+
+## 🌐 Navegação
+
+* 🔛 [Menu principal](https://github.com/borroniff/portfolio-fatec/blob/main/README.md)
+* 🔙 [Projeto anterior](https://github.com/borroniff/portfolio-fatec/blob/main/api2.md)
+* 🔜 [Próximo projeto](https://github.com/borroniff/portfolio-fatec/blob/main/api4.md)
