@@ -127,3 +127,9 @@ A plataforma foi construída utilizando um ecossistema moderno e versátil:
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
     <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
+<br>
+
+## 🌐 Navegação
+
+* 🔙 [Menu principal](https://github.com/borroniff/portfolio-fatec/blob/main/README.md)
+* 🔜 [Próximo projeto](https://github.com/borroniff/portfolio-fatec/blob/main/api2.md)
