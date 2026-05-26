@@ -8,7 +8,9 @@
 
 ## 📖 Sobre o Projeto
 O **AdaTrade** é uma plataforma web focada no monitoramento do comércio exterior dos estados brasileiros, desenvolvida pela **Equipe AdaLove** como parte do projeto de Aprendizagem por Projeto Integrado (API) do 3º Semestre. O objetivo principal do projeto foi criar uma ferramenta interativa com base em dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviços.
-O sistema fornece aos tomadores de decisão dados claros e acessíveis, permitindo a identificação de municípios em ascensão, estagnação ou declínio no mercado internacional.
+O sistema fornece aos tomadores de decisão dados claros e acessíveis, permitindo a identificação de municípios em ascensão, estagnação ou declínio no mercado internacional.<br>
+<br>
+🔗 Veja mais em: [https://github.com/equipeAdalove/API-SEMESTRE3](https://github.com/equipeAdalove/API-SEMESTRE3)
 
 ## 🎯 O Desafio
 Como equipe, nosso maior desafio foi processar uma base de dados pública massiva e integrá-la a uma interface fluida (Dashboard) que permitisse buscas por código NCM, filtros de período (2014-2024), visualização de mapas de calor e análises de vias de transporte.
