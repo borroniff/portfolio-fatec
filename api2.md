@@ -8,7 +8,9 @@
 
 ## 📖 Sobre o Projeto
 O **MindDoc Analyzer** é um software focado em automatizar a extração e análise de dados clínicos, desenvolvido pela **Equipe AdaLove** como parte do projeto de Aprendizagem por Projeto Integrado (API) do 2º Semestre. O objetivo principal do projeto foi criar uma ferramenta capaz de ler relatórios clínicos (como diagnósticos, tratamentos e evolução de pacientes em hospitais psiquiátricos) e estruturar essas informações utilizando modelos de linguagem e visão. 
-O projeto foi organizado, planejado e entregue com sucesso através de 4 Sprints, resultando em um MVP funcional focado em eficiência e privacidade de dados.
+O projeto foi organizado, planejado e entregue com sucesso através de 4 Sprints, resultando em um MVP funcional focado em eficiência e privacidade de dados. <br>
+<br>
+🔗 Veja mais em: [https://github.com/equipeAdalove/API-SEMESTRE2](https://github.com/equipeAdalove/API-SEMESTRE2)
 
 ## 🎯 O Desafio
 Como equipe, nosso maior desafio foi construir uma aplicação capaz de processar documentos utilizando modelos de Inteligência Artificial sem depender de APIs externas, garantindo que a aplicação rodasse localmente para proteger os dados sensíveis dos pacientes. Além disso, precisávamos estruturar a arquitetura do sistema do zero, lidando com a complexidade de gerenciar grandes volumes de texto e informações médicas.
