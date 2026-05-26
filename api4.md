@@ -8,7 +8,9 @@
 
 ## 📖 Sobre o Projeto
 O **AdaTech** é uma plataforma inovadora impulsionada por Inteligência Artificial, focada na automatização da elaboração de instruções de registro aduaneiro. Desenvolvida pela **Equipe AdaLove** como parte do projeto de Aprendizagem por Projeto Integrado (API) do 4º Semestre para a cliente TecSys. O objetivo principal do projeto foi criar uma ferramenta capaz de substituir o processo manual — frequentemente sujeito a erros humanos e retrabalho — garantindo que a Receita Federal tenha uma compreensão clara e sem ambiguidades dos produtos registrados.
-O sistema extrai dados críticos de PDFs, como Part-Number, classificação fiscal e informações do fabricante, gerando descrições precisas e em total conformidade com as exigências legais.
+O sistema extrai dados críticos de PDFs, como Part-Number, classificação fiscal e informações do fabricante, gerando descrições precisas e em total conformidade com as exigências legais.<br>
+<br>
+🔗 Veja mais em: [https://github.com/equipeAdalove/API-SEMESTRE4](https://github.com/equipeAdalove/API-SEMESTRE4)
 
 ## 🎯 O Desafio
 Como equipe, nosso maior desafio foi desenvolver e integrar um agente de Inteligência Artificial capaz de ler e interpretar documentos não estruturados (pedidos de compra em PDF) para sugerir NCM e descrições aduaneiras precisas, atrelando isso a uma interface de revisão intuitiva e uma funcionalidade de exportação de dados estruturados.
