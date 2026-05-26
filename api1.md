@@ -12,7 +12,8 @@ O projeto foi organizado, planejado e entregue com sucesso através de 4 Sprints
 
 Acesse:<br>
 Demonstração PC: [https://youtu.be/BXuAjkixi2U](https://youtu.be/7vTisQebZxs) <br>
-Visualização Mobile: [https://youtu.be/n23-EapXdbE](https://youtu.be/n23-EapXdbE)
+Visualização Mobile: [https://youtu.be/n23-EapXdbE](https://youtu.be/n23-EapXdbE) <br>
+Veja mais: [Respositório do Projeto!](https://github.com/equipeAdalove/API-SEMESTRE1)
 
 
 ## 🎯 O Desafio
