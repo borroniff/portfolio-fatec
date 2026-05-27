@@ -78,27 +78,19 @@ Durante o projeto, atuei exclusivamente como Product Owner, sendo a responsável
   <table>
     <tr>
       <th width="300px">Habilidade</th>
-      <th width="200px">Classificação</th>
+      <th width="300px">Classificação</th>
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td>★★★★★</td>
-    </tr>
-    <tr>
-      <td>Trabalho em Equipe</td>
-      <td>★★★★☆</td>
+      <td>Trabalhar de forma autônoma, visando concluir todas as responsabilifdade de um P.O</td>
     </tr>
     <tr>
       <td>Comunicação Assertiva</td>
-      <td>★★★★★</td>
+      <td>Me comunicar com o cliente sendo transparente e alinhando expectativas.</td>
     </tr>
     <tr>
       <td>Organização e Planejamento</td>
-      <td>★★★★★</td>
-    </tr>
-    <tr>
-      <td>Resiliência</td>
-      <td>★★★☆☆</td>
+      <td>Organizar o projeto como um todo, de maneira inteligente, planejando sempre o próximo passo.</td>
     </tr>
   </table>
 <br>
