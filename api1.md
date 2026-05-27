@@ -82,27 +82,15 @@ Durante as 4 Sprints do projeto, minhas principais responsabilidades incluíram:
   <table>
     <tr>
       <th width="300px">Habilidade</th>
-      <th width="200px">Classificação</th>
+      <th width="300px">Descrição</th>
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td>★★★★☆</td>
+      <td>Apliquei esforço de maneira proativa a tudo que fosse novidade.</td>
     </tr>
     <tr>
       <td>Trabalho em Equipe</td>
-      <td>★★★★☆</td>
-    </tr>
-    <tr>
-      <td>Comunicação Assertiva</td>
-      <td>★★★★☆</td>
-    </tr>
-    <tr>
-      <td>Organização e Planejamento</td>
-      <td>★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Resiliência</td>
-      <td>★★★☆☆</td>
+      <td>Me adaptei à equipe recém formada, conhecendo cada um.</td>
     </tr>
   </table>
 <br>
