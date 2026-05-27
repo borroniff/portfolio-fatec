@@ -83,27 +83,15 @@ Durante as 4 Sprints do projeto, atuei de forma ativa no desenvolvimento com foc
   <table>
     <tr>
       <th width="300px">Habilidade</th>
-      <th width="200px">Classificação</th>
-    </tr>
-    <tr>
-      <td>Proatividade</td>
-      <td>★★★★☆</td>
-    </tr>
-    <tr>
-      <td>Trabalho em Equipe</td>
-      <td>★★★★☆</td>
+      <th width="300px">Descrição</th>
     </tr>
     <tr>
       <td>Comunicação Assertiva</td>
-      <td>★★★★☆</td>
-    </tr>
-    <tr>
-      <td>Organização e Planejamento</td>
-      <td>★★★☆☆</td>
+      <td>Comunicar de forma clara entendimentos e dúvidas sobre as novas tecnologias.</td>
     </tr>
     <tr>
       <td>Resiliência</td>
-      <td>★★★☆☆</td>
+      <td>Me manter firme diante do aumento de complexidade das tecnologias.</td>
     </tr>
   </table>
 <br>
