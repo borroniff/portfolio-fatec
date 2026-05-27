@@ -83,27 +83,15 @@ Durante o projeto, atuei garantindo a preparação do insumo técnico e a acessi
   <table>
     <tr>
       <th width="300px">Habilidade</th>
-      <th width="200px">Classificação</th>
-    </tr>
-    <tr>
-      <td>Proatividade</td>
-      <td>★★★★☆</td>
-    </tr>
-    <tr>
-      <td>Trabalho em Equipe</td>
-      <td>★★★★☆</td>
+      <th width="300px">Descrição</th>
     </tr>
     <tr>
       <td>Comunicação Assertiva</td>
-      <td>★★★★☆</td>
+      <td>Transmitir minhas necessidades para a equipe.</td>
     </tr>
     <tr>
-      <td>Organização e Planejamento</td>
-      <td>★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Resiliência</td>
-      <td>★★★☆☆</td>
+      <td>Trabalho em equipe</td>
+      <td>Aplicar o real sentido de colaboração e "equipe ágil" quando foi necessário.</td>
     </tr>
   </table>
 <br>
