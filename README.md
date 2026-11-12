@@ -41,6 +41,8 @@ Os projetos abaixo foram desenvolvidos sob a metodologia de Aprendizagem por Pro
 | **2º** | **MindDoc Analyzer** | *FATEC* | Software voltado para a extração de informações e armazenamento de relatórios clínicos. | [🔗 Detalhes](https://github.com/borroniff/portfolio-fatec/blob/main/api2.md) |
 | **3º** | **AdaTrade**| *FATEC* | Plataforma WEB de acompanhamento dos dados de importação e exportação dos estados brasileiros. | [🔗 Detalhes](https://github.com/borroniff/portfolio-fatec/blob/main/api3.md) |
 | **4º** | **AdaTech** | *TecSys* | Aplicação que automatiza a criação da instrução de registro aduaneiro, de maneira legalmente correta e compatível. | [🔗 Detalhes](https://github.com/borroniff/portfolio-fatec/blob/main/api4.md) |
+| **5º** | **Sync Desk** | *Pro4Tech* | Plataforma de chat com triagem automatizada para centralizar e gerenciar o atendimento ao cliente. | [🔗 Detalhes](https://github.com/borroniff/portfolio-fatec/blob/main/api5.md) |
+| **6º** | **Synapse** | *Dom Rock* | Aplicação com IA que transforma comandos de voz em regras de negócio para simular impactos financeiros de comissões. | [🔗 Detalhes](https://github.com/borroniff/portfolio-fatec/blob/main/api6.md) |
 
 ---
 
