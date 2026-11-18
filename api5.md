@@ -1,4 +1,4 @@
-# SyncDesk (API - 4º Semestre)
+# SyncDesk (API - 5º Semestre)
 
 <div align="center">
   <img width="800" alt="SyncDesk Banner" src="https://github.com/user-attachments/assets/d8c0d754-5f48-41a9-b6a5-14231dc1c92b" />
