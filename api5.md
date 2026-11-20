@@ -7,7 +7,7 @@
 <br>
 
 ## 📖 Sobre o Projeto
-O **SyncDesk** é um sistema desenvolvido pela **Titus Systems** como parte do projeto de Aprendizagem por Projeto Integrado (API) do 4º Semestre (em parceria com a [Pro4Tech](https://pro4tech.com.br)). A plataforma foi projetada para estruturar o atendimento, a triagem e o escalonamento de demandas entre solicitantes, atendentes e gestores.
+O **SyncDesk** é um sistema desenvolvido pela **Titus Systems** como parte do projeto de Aprendizagem por Projeto Integrado (API) do 5º Semestre (em parceria com a [Pro4Tech](https://pro4tech.com.br)). A plataforma foi projetada para estruturar o atendimento, a triagem e o escalonamento de demandas entre solicitantes, atendentes e gestores.
 O sistema centraliza o suporte ao cliente por meio de um chat estruturado, oferecendo aplicações específicas (**mobile e web**) que otimizam o fluxo de atendimento, garantem o histórico completo das interações e fornecem ferramentas administrativas e dashboards para maior controle da operação.<br>
 <br>
 🔗 Veja mais em: [https://github.com/Titus-System/SyncDesk](https://github.com/Titus-System/SyncDesk)
