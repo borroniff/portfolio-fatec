@@ -7,7 +7,7 @@
 <br>
 
 ## 📖 Sobre o Projeto
-O **MindDoc Analyzer** é um software focado em automatizar a extração e análise de dados clínicos, desenvolvido pela **Equipe AdaLove** como parte do projeto de Aprendizagem por Projeto Integrado (API) do 2º Semestre. O objetivo principal do projeto foi criar uma ferramenta capaz de ler relatórios clínicos (como diagnósticos, tratamentos e evolução de pacientes em hospitais psiquiátricos) e estruturar essas informações utilizando modelos de linguagem e visão. 
+O **MindDoc Analyzer** é um software desenvolvido para automatizar a extração e análise de dados clínicos, desenvolvido pela **Equipe AdaLove** como parte do projeto de Aprendizagem por Projeto Integrado (API) do 2º Semestre. O objetivo principal do projeto foi criar uma ferramenta capaz de ler relatórios clínicos (como diagnósticos, tratamentos e evolução de pacientes em hospitais psiquiátricos) e estruturar essas informações utilizando modelos de linguagem e visão. 
 O projeto foi organizado, planejado e entregue com sucesso através de 4 Sprints, resultando em um MVP funcional focado em eficiência e privacidade de dados. <br>
 <br>
 🔗 Veja mais em: [https://github.com/equipeAdalove/API-SEMESTRE2](https://github.com/equipeAdalove/API-SEMESTRE2)
@@ -18,7 +18,7 @@ Como equipe, nosso maior desafio foi construir uma aplicação capaz de processa
 Como **Desenvolvedora (Dev Team)**, meu desafio central foi garantir o fluxo correto e seguro da informação de ponta a ponta:
 * **Persistência Segura:** Modelar e estruturar o armazenamento para que as informações extraídas pela IA fossem corretamente salvas no banco de dados relacional.
 * **Operações de Sistema:** Desenvolver a lógica robusta para que os profissionais da saúde pudessem cadastrar, ler, atualizar e excluir relatórios sem perda de dados.
-* **Comunicação Front e Back:** Fazer a integração fluida entre a interface que o usuário acessa e a lógica por trás do sistema, manipulando adequadamente os recursos e controladores.
+* **Integração entre front-end e back-end:** Fazer a integração fluida entre a interface que o usuário acessa e a lógica por trás do sistema, manipulando adequadamente os recursos e controladores.
 
 Confira o vídeo de demonstração da versão final (Sprint IV):
 * 🖥️ **Demonstração:**
@@ -29,10 +29,10 @@ Confira o vídeo de demonstração da versão final (Sprint IV):
 
 ## 👩‍💻 Minha Atuação
 Durante as 4 Sprints do projeto, atuei de forma ativa no desenvolvimento com foco no fluxo principal de dados da aplicação. Minhas principais responsabilidades e contribuições incluíram:
-* 💾 **Banco de Dados:** Fui responsável pela estruturação, modelagem e conexão do banco de dados (MySQL), garantindo que a base estivesse pronta para receber e organizar os dados sensíveis dos relatórios clínicos.
-* ⚙️ **Desenvolvimento do CRUD Principal (Backend):** Codifiquei toda a lógica de negócio das operações de Criação, Leitura, Atualização e Exclusão no backend. Isso garantiu o gerenciamento completo dos documentos e das informações extraídas dos pacientes.
+* 💾 **Banco de Dados:** Fui responsável pela estruturação, pela modelagem e pela conexão com o banco de dados (MySQL), garantindo que a base estivesse pronta para receber e organizar os dados sensíveis dos relatórios clínicos.
+* ⚙️ **Desenvolvimento do CRUD Principal (Backend):** Desenvolvi a lógica de negócio das operações de Criação, Leitura, Atualização e Exclusão no backend. Isso garantiu o gerenciamento completo dos documentos e das informações extraídas dos pacientes.
 * 🖥️ **Controllers e Resources (Frontend):** Atuei no lado do cliente desenvolvendo e configurando os controllers e resources. Fui responsável por fazer a ponte de comunicação, garantindo que as requisições do usuário na interface consumissem a API corretamente e exibissem os dados na tela.
-* 🤝 **Trabalho em Equipe:** Participação ativa nas cerimônias Scrum (Plannings, Dailies, Reviews e Retrospectives), ajudando a manter o alinhamento técnico do Dev Team entre as entregas de front e banco de dados.
+* 🤝 **Trabalho em Equipe:** Participei ativamente das cerimônias do Scrum (Plannings, Dailies, Reviews e Retrospectives), ajudando a manter o alinhamento técnico do Dev Team entre as entregas de front e banco de dados.
 
 ## 💻 Habilidades durante o projeto:
 <h3>Hard Skills:</h3>
