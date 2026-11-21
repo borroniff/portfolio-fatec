@@ -34,7 +34,7 @@ Durante o projeto, atuei na preparação dos dados utilizados pela aplicação e
 * 📘 **Manual do Usuário:** Fui a única responsável pelo desenvolvimento do manual do usuário, elaborando um guia completo que detalha desde a navegação inicial até funcionalidades avançadas, como a comparação de estados, busca por NCM, visualização de mapas de calor e exportação para Power BI.
 * 🤝 **Trabalho em Equipe:** Participei ativamente das metodologias ágeis (Scrum), alinhando as entregas de dados com as necessidades das equipes de Backend e Frontend ao longo das Sprints.
 
-<summary>👀 Visualizar [Manual do usuário!](./Manual%20do%20Usu%C3%A1rio%20Adatrade.pdf)</summary>
+👀 Visualizar [Manual do usuário](./Manual%20do%20Usu%C3%A1rio%20Adatrade.pdf)
 
 ## 💻 Habilidades durante o projeto:
 <h3>Hard Skills:</h3>
