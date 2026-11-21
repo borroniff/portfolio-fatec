@@ -33,7 +33,23 @@ Durante o projeto, assumi o papel de **Product Owner (P.O.)**, expandindo minha 
 * 📚 **Documentação da Plataforma:** Elaborei e estruturei toda a documentação técnica e funcional do projeto no repositório, consolidando a base de conhecimento do software, o acompanhamento das Sprints e as regras de negócio.
 * 🤝 **Comunicação com o Cliente (Dom Rock):** Conduzi o alinhamento constante com os pontos focais do cliente, validando entregas, gerenciando expectativas e garantindo que o escopo de cada Sprint estivesse totalmente alinhado às necessidades do negócio.
 
+<details>
+<summary>👀 Visualizar <strong>Product Backlog</strong></summary>
+
+| Ranking | Prioridade | User Story (US) | Estimativa | Sprint |
+| :---: | :---: | :--- | :---: | :---: |
+| **01** | Alta | Como profissional de recursos humanos, quero a simulação dos futuros resultados da regra de negócio* processada, para verificar sua viabilidade. | 13 | 01 |
+| **02** | Baixa | Como profissional de recursos humanos, quero um relatório após a finalização de cada processo, identificando a regra de negócio finalizada e sua simulação, para gravar meu histórico e facilitar o acesso posterior. | 3 | 01 |
+| **03** | Alta | Como profissional de recursos humanos, quero a captura de voz e transcrição do conteúdo recebido, para que o início do fluxo no sistema seja prático. | 8 | 02 |
+| **04** | Alta | Como profissional de recursos humanos, quero a sugestão automática de possível adaptação da regra de negócio*, para evitar inviabilidade por incompatibilidade dos parâmetros. | 8 | 02 |
+| **05** | Média | Como auditor, quero o registro dos dados processados durante o fluxo principal de simulação, para averiguar as fontes dos dados obtidos ao final do processo. | 5 | 03 |
+| **06** | Média | Como auditor, quero que o sistema seja capaz de explicar todas as decisões tomadas durante o processo de simulação, para transparência dos resultados. | 8 | 03 |
+| **07** | Baixa | Como profissional de recursos humanos, quero a validação dos dados obtidos por voz, a fim de confirmar se os parâmetros da regra de negócio* foram recebidos e serão simulados de maneira correta. | 5 | 03 |
+> **Nota:** *Regra de negócio: Conjunto de parâmetros que definem as regras para o comissionamento após uma meta de vendas alcançada.
+</details>
+
 ## 💻 Habilidades durante o projeto:
+
 <h3>Hard Skills:</h3>
   <table>
     <tr>
