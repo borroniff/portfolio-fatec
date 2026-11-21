@@ -33,6 +33,24 @@ Durante as 4 Sprints do projeto, minhas principais responsabilidades incluíram:
 * **Gestão do Roadmap** - Acompanhamento do progresso para garantir a viabilidade do produto final.
 * **Desenvolvimento** - Frontend e Backend atuando tanto no desenvolvimento das telas, como das rotas em Python;Flask. Minha contribuição de destaque foram os quizzes presentes no sistema.
 
+<details>
+<summary>👀 Visualizar <strong>Product Backlog</strong></summary>
+
+| Ranking | Prioridade | User Story (US) | Sprint |
+| :---: | :---: | :--- | :---: |
+| **01** | Alta | Como contratante quero visualizar um protótipo do site, em Figma, para aprovar seu layout. | 01 |
+| **02** | Alta | Como requerente, quero um esqueleto funcional do site para verificar sua navegabilidade. | 01 |
+| **03** | Alta | Como comprador, quero um artigo com a base do que será apresentado como conteúdo didático, para verificar sua utilidade em relação às minhas necessidades. | 01 |
+| **04** | Alta | Como contratante, quero a finalização do conteúdo didático que será ensinado no site, para averiguar sua eficiência. | 02 |
+| **05** | Alta | Como requerente, quero um formulário onde meus funcionários possam deixar sua opiniões sobre o site para averiguar sua utilidade e seu uso pelos mesmos. | 04 |
+| **06** | Alta | Como contratante, quero ter acesso a uma planilha, com todas a opiniões de meus funcionários sobre o site, bem como a identificação de cada um, para ter um controle do acesso ao site e sua utilização. | 04 |
+| **07** | Média | Como usuário final, quero quizzes no site, referentes ao conteúdo ensinado, para autoavaliar meu conhecimento. | 02 |
+| **08** | Baixa | Como usuário final, quero saber as referências utilizadas para a montagem do conteúdo para maior confiança no que está sendo aprendido. | 03 |
+| **09** | Baixa | Com usuário final quero a correção de pequenos bugs e a implementação de recursos adicionais para a plena utilização do site. | 03 |
+| **10** | Baixa | Como usuário final, quero que a página seja completamente responsiva para poder acessá-la através de qualquer dispositivo. | 04 |
+
+</details>
+
 ## 💻 Habilidades durante o projeto:
 <h3>Hard Skills:</h3>
   <table>
