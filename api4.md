@@ -31,7 +31,7 @@ Confira o vídeo de demonstração da versão final (Sprint IV):
 Durante o projeto, atuei exclusivamente como Product Owner, sendo a responsável direta pela visão do produto, gestão do backlog e interface com os stakeholders. Minhas principais responsabilidades incluíram:
 * 📋 **Gestão e Priorização do Backlog (Product Backlog):** Criação, mapeamento e priorização das Histórias de Usuário (User Stories). Fui responsável por elencar as entregas de alto valor, como a extração de dados e a geração de planilhas Excel na Sprint 1, deixando módulos como formulários de correção e telas de histórico para as Sprints subsequentes.
 * 🎯 **Definição de Regras e Critérios:** Estabelecimento rigoroso do *Definition of Ready* (DoR) e *Definition of Done* (DoD). Garanti que nenhuma história entrasse em desenvolvimento sem critérios de aceitação claros e aprovei pessoalmente cada funcionalidade testada antes da sua incorporação à branch principal.
-* 🤝 **Validação com o Cliente e Stakeholders:** Condução de reuniões de alinhamento e apresentação das entregas (Reviews) de cada Sprint (1, 2 e 3) para a cliente TecSys e os docentes orientadores, garantindo que o produto estivesse sempre rumo à resolução do desafio proposto.
+* 🤝 **Validação com o Cliente e Stakeholders:** Condução de reuniões de alinhamento e apresentação das entregas (Reviews) de cada Sprint (1, 2 e 3) para a cliente TecSys e os docentes orientadores, garantindo que o produto permanecesse alinhado à resolução.
 * 🚀 **Acompanhamento do Desenvolvimento Ágil:** Colaboração diária com o Scrum Master e o Dev Team para o esclarecimento de dúvidas sobre regras de negócio, removendo impedimentos no entendimento do produto e garantindo a fluidez da esteira de entregas.
 
 ## 💻 Habilidades durante o projeto:
