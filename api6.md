@@ -28,10 +28,10 @@ Como **Product Owner (P.O.)**, com atuação estendida em **Design de Interface 
 
 Durante o projeto, assumi o papel de **Product Owner (P.O.)**, expandindo minha atuação para a concepção visual e estruturação documental da plataforma. Minhas principais responsabilidades incluíram:
 
-* 📋 **Gestão Ágil e Product Backlog:** Fui responsável pela estruturação, refinamento contínuo e priorização do Product Backlog. Desdobrei os requisitos do sistema em *User Stories* orientadas a valor, abrangendo desde a simulação de resultados para análise de viabilidade e captura/validação de voz, até a sugestão automática de adaptações e criação de mecanismos de transparência para auditorias.
+* 📋 **Gestão Ágil e Product Backlog:** Fui responsável pela estruturação, refinamento contínuo e priorização do Product Backlog. Detalhei os requisitos do sistema em *User Stories* orientadas a valor, abrangendo desde a simulação de resultados para análise de viabilidade e captura/validação de voz, até a sugestão automática de adaptações e criação de mecanismos de transparência para auditorias.
 * 🎨 **Concepção Visual e Prototipação (UI/UX):** Assumi a responsabilidade pela criação dos *mockups* e da identidade visual da interface do sistema, garantindo uma navegação fluida, clara e centrada na experiência do usuário final (RH e Auditores).
 * 📚 **Documentação da Plataforma:** Elaborei e estruturei toda a documentação técnica e funcional do projeto no repositório, consolidando a base de conhecimento do software, o acompanhamento das Sprints e as regras de negócio.
-* 🤝 **Ponte com o Cliente (Dom Rock):** Conduzi o alinhamento constante com os pontos focais do cliente, validando entregas, gerenciando expectativas e garantindo que o escopo de cada Sprint estivesse 100% aderente às necessidades reais de negócio.
+* 🤝 **Comunicação com o Cliente (Dom Rock):** Conduzi o alinhamento constante com os pontos focais do cliente, validando entregas, gerenciando expectativas e garantindo que o escopo de cada Sprint estivesse totalmente alinhado às necessidades do negócio.
 
 ## 💻 Habilidades durante o projeto:
 <h3>Hard Skills:</h3>
