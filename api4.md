@@ -34,6 +34,21 @@ Durante o projeto, atuei exclusivamente como Product Owner, sendo a responsável
 * 🤝 **Validação com o Cliente e Stakeholders:** Condução de reuniões de alinhamento e apresentação das entregas (Reviews) de cada Sprint (1, 2 e 3) para a cliente TecSys e os docentes orientadores, garantindo que o produto permanecesse alinhado à resolução.
 * 🚀 **Acompanhamento do Desenvolvimento Ágil:** Colaboração diária com o Scrum Master e o Dev Team para o esclarecimento de dúvidas sobre regras de negócio, removendo impedimentos no entendimento do produto e garantindo a fluidez da esteira de entregas.
 
+<details>
+<summary>👀 Visualizar <strong>Product Backlog</strong></summary>
+
+| Ranking | Prioridade | User Story (US) | Estimativa | Sprint |
+| :---: | :---: | :--- | :---: | :---: |
+| **01** | Alta | Como usuário final, quero fazer o upload de um PDF de um pedido de compra, para que o sistema extraia todos os Part-Numbers (P/Ns) contidos nele. | 5 | 01 |
+| **02** | Alta | Como usuário final, quero que o sistema sugira o NCM e a descrição de cada item, para que eu tome ciência deles. | 13 | 01 |
+| **03** | Alta | Como usuário final, quero gerar um arquivo Excel com os dados finais, para submeter à receita federal. | 3 | 01 |
+| **04** | Média | Como usuário final, quero ter um formulário, para revisar e corrigir as informações extraídas antes de finalizar o processo, para evitar falhas. | 8 | 02 |
+| **05** | Média | Como usuário final, quero acessar o sistema através de uma tela de login para garantir a segurança dos dados da empresa. | 5 | 02 |
+| **06** | Média | Como usuário final, quero ter acesso a um histórico que liste os PDFs já processados, para que eu possa consultar rapidamente resultados anteriores. | 5 | 03 |
+| **07** | Baixa | Como usuário final, quero ter acesso à documentação completa do sistema para facilitar o uso e a instalação dele. | 3 | 03 |
+
+</details>
+
 ## 💻 Habilidades durante o projeto:
 <h3>Hard Skills:</h3>
   <table>
