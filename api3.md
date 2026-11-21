@@ -13,7 +13,7 @@ O sistema fornece aos tomadores de decisão dados claros e acessíveis, permitin
 🔗 Veja mais em: [https://github.com/equipeAdalove/API-SEMESTRE3](https://github.com/equipeAdalove/API-SEMESTRE3)
 
 ## 🎯 O Desafio
-Como equipe, nosso maior desafio foi processar uma base de dados pública massiva e integrá-la a uma interface fluida (Dashboard) que permitisse buscas por código NCM, filtros de período (2014-2024), visualização de mapas de calor e análises de vias de transporte.
+Como equipe, nosso maior desafio foi processar uma base de dados pública massiva e integrá-la a uma painel interativo (dashboard) que permitisse buscas por código NCM, filtros de período (2014-2024), visualização de mapas de calor e análises de vias de transporte.
 
 Como **Desenvolvedora (Dev Team)** com foco na qualidade dos dados e na experiência do usuário, meu desafio central foi garantir que as informações fornecidas à aplicação fossem precisas e que o usuário final soubesse como extrair o máximo valor da ferramenta:
 * **Integridade da Base:** Lidar com arquivos brutos contendo valores nulos, registros duplicados e vias de transporte irrelevantes.
@@ -28,10 +28,10 @@ Confira o vídeo de demonstração da versão final (Sprint IV):
 </div>
 
 ## 👩‍💻 Minha Atuação
-Durante o projeto, atuei garantindo a preparação do insumo técnico e a acessibilidade da ferramenta para o usuário. Minhas principais responsabilidades incluíram:
+Durante o projeto, atuei na preparação dos dados utilizados pela aplicação e na elaboração de materiais que facilitassem a utilização da ferramenta pelos usuários. Minhas principais responsabilidades incluíram:
 * 🧹 **Limpeza e Tratamento de Dados (Pandas & Google Colab):** Desenvolvi scripts em Python no Google Colab para acessar, limpar e normalizar os arquivos CSV de importação e exportação. Implementei a eliminação de registros irrelevantes (como transporte postal e "em mãos") e apliquei a técnica de Intervalo Interquartil (IQR) para tratar outliers em colunas críticas como peso líquido e valor FOB.
-* 📊 **Consolidação para o Backend:** Consolidei as bases limpas em arquivos finais padronizados, estruturando os dados para a persistência no banco de dados relacional PostgreSQL.
-* 📘 **Manual do Usuário:** Fui a responsável exclusiva pelo desenvolvimento do manual do usuário, elaborando um guia completo que detalha desde a navegação inicial até funcionalidades avançadas, como a comparação de estados, busca por NCM, visualização de mapas de calor e exportação para Power BI.
+* 📊 **Consolidação para o Backend:** Consolidei as bases de dados tratadas em arquivos finais padronizados, estruturando os dados para a persistência no banco de dados relacional PostgreSQL.
+* 📘 **Manual do Usuário:** Fui a única responsável pelo desenvolvimento do manual do usuário, elaborando um guia completo que detalha desde a navegação inicial até funcionalidades avançadas, como a comparação de estados, busca por NCM, visualização de mapas de calor e exportação para Power BI.
 * 🤝 **Trabalho em Equipe:** Participei ativamente das metodologias ágeis (Scrum), alinhando as entregas de dados com as necessidades das equipes de Backend e Frontend ao longo das Sprints.
 
 ## 💻 Habilidades durante o projeto:
