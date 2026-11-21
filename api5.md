@@ -15,7 +15,7 @@ O sistema centraliza o suporte ao cliente por meio de um chat estruturado, ofere
 ## 🎯 O Desafio
 Como equipe, nosso desafio foi desenvolver uma solução multiplataforma (mobile e web) que centralizasse o atendimento ao cliente com registro completo de histórico, acompanhamento do ciclo de vida dos chamados (abertura, escalonamento e encerramento) e início de jornada por meio de triagem automatizada.
 
-Como **Desenvolvedora (Dev Team)** responsável de ponta a ponta pela construção da **triagem automatizada**, meu desafio central foi garantir que o primeiro contato do cliente fosse fluido, inteligente e bem estruturado no banco de dados:
+Como membro do time de desenvolvimento, atuei no desenvolvimento completo da **triagem automatizada**, com o desafio central de criar uma jornada inicial fluida e inteligente para o cliente, garantindo a estruturação eficiente e íntegra dos dados no banco.:
 * **Arquitetura de Fluxos:** Mapear todas as possibilidades de interação inicial do solicitante para identificar o problema de forma ágil e sem atritos.
 * **Lógica de Estados:** Construir um motor de conversação capaz de interpretar seleções do usuário e conduzir transições precisas no atendimento.
 * **Persistência Híbrida:** Integrar o histórico dinâmico das conversas à criação formal de chamados estruturados, conectando bancos de dados distintos.
